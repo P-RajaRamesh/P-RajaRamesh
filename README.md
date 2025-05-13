@@ -20,7 +20,7 @@ I am a passionate Generative AI Engineer who thrives on pushing the boundaries o
 ## 🚀 Always eager to collaborate on exciting AI projects and research!
 
 ### 🌎 Let's Connect!
-- **📩Mail** - rajaramesh7410@gmail.com
+- **📩Mail** - ```rajaramesh7410@gmail.com```
 - **🔗LinkedIn** - www.linkedin.com/in/pericharla-raja-ramesh
 
 ## 🤝 Thanks for visiting my profile! 🤗
