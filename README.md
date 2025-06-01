@@ -11,6 +11,7 @@ I am a passionate Generative AI Engineer who thrives on pushing the boundaries o
 - **LLM Models** - Gemini, Llama, Claude, Gemma, Stable Diffusion
 - **Vector DB** - FAISS, Chroma, Astra & Pinecone.
 - **Cloud** - AWS EC2 and Lambda
+- **MCP** - INPROGRESS...
 
 ### 🚀 Some of my projects include 🚀:
 - **Text-to-Image-Generation** 🖼️– Text-to-image generation using Stable Diffusion models.
