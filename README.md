@@ -25,7 +25,7 @@ I am a passionate Generative AI Engineer who thrives on pushing the boundaries o
 - **🔗LinkedIn** - www.linkedin.com/in/pericharla-raja-ramesh
 
 ## 🤝 Thanks for visiting my profile! 🤗
-  *. Checkout my repositories i had uploaded a great stuff on Generative AI. Feel free to post any queries!. Thanks...*
+\- Checkout my repositories i had uploaded a great stuff on Generative AI. Feel free to post any queries!. Thanks...*
 
 
 
