@@ -5,12 +5,11 @@ I am a passionate Generative AI Engineer who thrives on pushing the boundaries o
 
 ### 💡Skills and Interests 🔭
 - **Programming** - Python,  Machine Learning & Deep Learning in NLP.
-- **SQL** - SQL DDL & DML scripts and Stored Procedures.
 - **Front end** - HTML5 & CSS3
-- **Gen AI** - LangChain, GROQ, NVIDIA, HuggingFace, LangFlow, Sqlite3, Agentic AI using Crew & Agno.
+- **Gen AI** - LangChain, GROQ, NVIDIA, HuggingFace, LangFlow, Agentic AI using Crew & Agno.
 - **LLM Models** - Gemini, Llama, Claude, Gemma, Stable Diffusion
 - **Vector DB** - FAISS, Chroma, Astra & Pinecone.
-- **Cloud** - AWS EC2 and Lambda
+- **Cloud** - AWS EC2 and GCP VM
 - **MCP** - Still exploring INPROGRESS... ( Until then checkout my simple MCP projects - https://github.com/P-RajaRamesh/MCP-Server )
 
 ### 🚀 Some of my projects include 🚀:
